@@ -1,4 +1,4 @@
-# Project5-Calculator
+# Calculator
 ## 4-Function Caluclator
 
 ### Made By : Ahmad Mughrabi
@@ -7,7 +7,7 @@
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator#assignment
 
 ### Website Page
-https://9amtech.github.io/Project5-Calculator/
+https://9amtech.github.io/Calculator/
 
 #### Description
 The aim of this project was to create a working 4F Calculator with a working display and keyboard
